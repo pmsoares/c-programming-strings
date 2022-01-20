@@ -17,7 +17,7 @@
 int prog0705() {
 	setlocale(LC_ALL, "Portuguese_Portugal");
 
-	char nome[DIM + 1], apelido[DIM + 1], completo[DIM * 2 + 1];
+	char nome[DIM + 1], apelido[DIM + 1], completo[DIM * 2 + 1] = "";
 	do {
 		printf("Nome: ");
 		gets_s(nome, DIM);

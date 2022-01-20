@@ -31,6 +31,8 @@
     <ClCompile Include="prog0709.c" />
     <ClCompile Include="prog0710.c" />
     <ClCompile Include="prog0711.c" />
+    <ClCompile Include="prog0712.c" />
+    <ClCompile Include="prog0713.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="funcoes.h" />
