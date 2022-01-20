@@ -25,7 +25,7 @@ char* wordupr(char* s) {
 	return s;
 }
 
-int main() { //programa de teste
+int prog0713() { //programa de teste
 	setlocale(LC_ALL, "Portuguese_Portugal");
 
 	char teste[] = "ERA uma VeZ";

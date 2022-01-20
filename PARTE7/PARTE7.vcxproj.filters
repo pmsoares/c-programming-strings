@@ -57,6 +57,9 @@
     <ClCompile Include="prog0713.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="prog0714.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="funcoes.h">
